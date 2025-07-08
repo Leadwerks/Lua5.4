@@ -1,8 +1,8 @@
-# Lua for Ultra Engine
+# Lua for Leadwerks 5
 
 **Current version: 5.4.4**
 
-You can use this version of Lua for building modules for use with Ultra Engine.
+You can use this version of Lua for building modules for use with Leadwerks 5.
 
 The only change is in luaconf.h:
 ```c
